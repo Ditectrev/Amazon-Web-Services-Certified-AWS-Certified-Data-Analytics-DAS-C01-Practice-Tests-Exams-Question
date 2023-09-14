@@ -2,6 +2,81 @@
 
 ![Promotional image](images/promotional.png)
 
+## Udemy & Etsy
+
+❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/aws-certified-data-analytics-specialty-das-c01-exams-t/?referralCode=73B22BCE065A00147967). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
+
+🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://ditectrev.etsy.com).
+
+## ✨ This course is unlike any Amazon Web Services Certified (AWS Certified) Data Analytics Specialty (DAS-C01) course you will find online
+
+✋ Join a live online community and a course taught by industry experts and pass the Amazon Web Services Certified (AWS Certified) Data Analytics Specialty (DAS-C01) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+
+[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
+
+## ⌛️ Short and to the point; why should you take the course
+
+1. Always happy to answer your questions on Udemy's Q&A's and outside :)
+2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
+3. Learn about topics, such as:
+   - Active Directory;
+   - Amazon Athena;
+   - Amazon Aurora;
+   - Amazon CloudWatch;
+   - Amazon DynamoDB;
+   - Amazon Elastic Compute Cloud (Amazon EC2);
+   - Amazon Elastic Map Reduce (Amazon EMR);
+   - Apache Kafka;
+   - Amazon Kinesis;
+   - Amazon OpenSearch Service;
+   - Amazon QuickSight;
+   - Amazon Redshift;
+   - Amazon Relational Database Service (Amazon RDS);
+   - Amazon Simple Storage Service (Amazon S3);
+   - Apache Spark;
+   - AWS CloudFormation;
+   - AWS Command Line Interface (AWS CLI);
+   - AWS Glue;
+   - AWS Identity and Access Management (AWS IAM);
+   - AWS Key Management Service (AWS KMS);
+   - AWS Lambda;
+   - Extract, Transform, Load (ETL);
+   - Hadoop Distributed File System (HDFS);
+   - Input/Output operations Per Second (IOPS);
+   - Virtual Private Clouds (VPC);
+   - **Much More!**
+4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
+5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
+6. This course is **not** an Amazon Web Services Certified (AWS Certified) Data Analytics Specialty (DAS-C01) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+7. 83 **unique** questions.
+
+## ☝️ Course Updates
+
+**[v1.0.0](../../releases/tag/v1.0.0): September 13, 2023.**
+
+- Launch of the course.
+
+## 🙋‍♀️ & 🙋‍♂️ Contribution
+
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
+
+## Who this course is for:
+
+- 👨‍🎓 Students preparing for the Amazon Web Services Certified (AWS Certified) Data Analytics Specialty (DAS-C01) Exam;
+- 👨‍🎓 Amazon Web Services (AWS) Engineers;
+- 👨‍🎓 Business Analysts;
+- 👨‍🎓 Data Analysts;
+- 👨‍🎓 Data Engineers;
+- 👨‍🎓 Data Scientists.
+
+## Requirements
+
+- 🤩 Excitement to learn!
+- 0️⃣ Prior knowledge is required;
+- ✅ You can pass the Amazon Web Services Certified (AWS Certified) Data Analytics Specialty (DAS-C01) Exam solely based on our Practice Tests Exams.
+
+## Table of Contents
+
 ### A streaming application is reading data from Amazon Kinesis Data Streams and immediately writing the data to an Amazon S3 bucket every 10 seconds. The application is reading data from hundreds of shards. The batch interval cannot be changed due to a separate requirement. The data is being accessed by Amazon Athena. Users are seeing degradation in query performance as time progresses. Which action can help improve query performance?
 
 - [x] Merge the files in Amazon S3 to form larger files.
