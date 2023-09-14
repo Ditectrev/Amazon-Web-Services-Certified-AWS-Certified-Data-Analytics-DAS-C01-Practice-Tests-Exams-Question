@@ -6,7 +6,7 @@
 
 ❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/aws-certified-data-analytics-specialty-das-c01-exams-t/?referralCode=73B22BCE065A00147967). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
 
-🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://ditectrev.etsy.com).
+🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://www.etsy.com/listing/1566274249/amazon-web-services-certified-aws).
 
 ## ✨ This course is unlike any Amazon Web Services Certified (AWS Certified) Data Analytics Specialty (DAS-C01) course you will find online
 
