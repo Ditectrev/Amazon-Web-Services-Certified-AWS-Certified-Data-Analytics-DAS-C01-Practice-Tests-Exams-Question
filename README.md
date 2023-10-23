@@ -26,13 +26,13 @@
    - Amazon DynamoDB;
    - Amazon Elastic Compute Cloud (Amazon EC2);
    - Amazon Elastic Map Reduce (Amazon EMR);
-   - Apache Kafka;
    - Amazon Kinesis;
    - Amazon OpenSearch Service;
    - Amazon QuickSight;
    - Amazon Redshift;
    - Amazon Relational Database Service (Amazon RDS);
    - Amazon Simple Storage Service (Amazon S3);
+   - Apache Kafka;
    - Apache Spark;
    - AWS CloudFormation;
    - AWS Command Line Interface (AWS CLI);
